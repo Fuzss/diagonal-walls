@@ -1,8 +1,8 @@
 package fuzs.diagonalwalls.neoforge.client;
 
-import fuzs.diagonalwalls.DiagonalWalls;
-import fuzs.diagonalwalls.client.DiagonalWallsClient;
-import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
+import fuzs.diagonalwalls.common.DiagonalWalls;
+import fuzs.diagonalwalls.common.client.DiagonalWallsClient;
+import fuzs.puzzleslib.common.api.client.core.v1.ClientModConstructor;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.fml.common.Mod;
 
